@@ -62,6 +62,7 @@ Tools: R
 - Performed exploratory data analysis
 - Created interactive plots visualizing the pickups trends in all factors affecting pickups
 - Recommended business idea to improve profictability from a business point of view
+
  Report: 
 ## Education
 
