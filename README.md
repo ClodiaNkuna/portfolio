@@ -52,13 +52,17 @@ Responsibilities includes:
 | Project Management | Scrum, Agile Methodologies|
 | Software Testing | Test planning, test cases, Defect Reporting |
 | Business Analysis | Requirement Gathering, Process Analysis
+
 ## Projects
+
 ### Uber Data Analytics project
+
 Tools: R
 - Cleaned and transformed Uber pickup datasets
 - Performed exploratory data analysis
 - Created interactive plots visualizing the pickups trends in all factors affecting pickups
-- Recommended business idea to improve profictability from a business point of view 
+- Recommended business idea to improve profictability from a business point of view
+  Report: 
 ## Education
 
 BAMBENI SECONDARY SCHOOL - National Senior Certificate
